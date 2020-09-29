@@ -78,9 +78,9 @@ def es(A,B,Conocimiento):
     return False
 
 print("")
-print("El Gato TIENE GlandulasM ",tiene("Gato","GlandulasM",TIENE))
+print("El Gallo TIENE GlandulasM ",tiene("Gallo","GlandulasM",TIENE))
 print("El Cocodrilo TIENE Pelo ",tiene("Cocodrilo","Pelo",TIENE))
-print("El Delfin TIENE GlandulasM ",tiene("Delfin","GlandulasM",TIENE))
+print("El Delfin TIENE Proteccion queratina (plumas o escamas) ",tiene("Delfin","Proteccion queratina (plumas o escamas)",TIENE))
 
 print("")
 print("El Cocodrilo VIVE en Tierra ",vive("Cocodrilo","Tierra",VIVE))
